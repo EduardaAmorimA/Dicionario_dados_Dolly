@@ -26,7 +26,7 @@ Site publicado anteriormente: [https://eduardaamorima.github.io/Dicionario_dados
 ├── index.html
 ├── script.js
 ├── style.css
-├── verificar_catalogo.py
+└── verificar_catalogo.py
 ```
 
 Abra `index.html` no navegador. A página usa caminhos relativos, portanto preserve os nomes e a posição das pastas. A pesquisa, o tema e os controles de zoom usam JavaScript nativo.
