@@ -7,23 +7,26 @@ Site publicado anteriormente: [https://eduardaamorima.github.io/Dicionario_dados
 ## Estrutura
 
 ```text
-/meu-dicionario
-├── index.html
-├── style.css
-├── script.js
-├── README.md
-├── ENTREGA_GRUPO.md
-├── RELATORIO.md
-├── CONFERENCIA_AT2_11-11-2026.md
-├── docs/
-│   ├── Especificacao_Requisitos_Regras_Negocio_BD.pdf
-│   ├── dolly_vendas.mwb
-│   ├── ddl_original.sql
-│   ├── catalogo.json
-│   └── CONFERENCIA_AT2.md
+/Dicionario_dados_Dolly
 └── assets/
-    ├── der.png
-    └── der.mmd
+    ├── der.mmd
+    └── der.png
+    └── der_original.png
+├── docs/
+    ├── CONFERENCIA_AT2.md
+    ├── CONFERENCIA_DER_WORKBENCH.json
+    ├── Especificacao_Requisitos_Regras_Negocio_BD.pdf
+    ├── Relatorio_Auditoria.pdf
+    ├── catalogo.json
+    ├── ddl_original.sql
+    └── dolly_vendas.mwb
+├── CODIGO_COMPLETO.md
+├── README.md
+├── RELATORIO.md
+├── index.html
+├── script.js
+├── style.css
+├── verificar_catalogo.py
 ```
 
 Abra `index.html` no navegador. A página usa caminhos relativos, portanto preserve os nomes e a posição das pastas. A pesquisa, o tema e os controles de zoom usam JavaScript nativo.
