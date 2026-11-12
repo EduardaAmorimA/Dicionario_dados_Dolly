@@ -2,7 +2,7 @@
 
 A pasta contém o dicionário baseado em DDL, PDF enviado pelo grupo (localizado em: docs/Especificacao_Requisitos_Regras_Negocio_BD.pdf) e o DER exportado pelo MySQL Workbench 8.0.47. O DER foi conferido com 19 tabelas, 115 colunas e 21 relacionamentos. A AT2 ainda tem divergências em relação ao DDL; consulte `docs/CONFERENCIA_AT2.md`.
 
-Site publicado anteriormente: [https://eduardaamorima.github.io/Dicionario_dados_Dolly/] . Repositório: [https://github.com/EduardaAmorimA/Dicionario_dados_Dolly] . Esta pasta é uma versão local preparada; ainda não foi publicada a revisão atual.
+Site publicado: [https://eduardaamorima.github.io/Dicionario_dados_Dolly/] . Repositório: [https://github.com/EduardaAmorimA/Dicionario_dados_Dolly] . Esta pasta é uma versão local preparada; ainda não foi publicada a revisão atual.
 
 ## Estrutura
 
