@@ -23,6 +23,7 @@ Site publicado: [https://eduardaamorima.github.io/Dicionario_dados_Dolly/] . Rep
 ├── CODIGO_COMPLETO.md
 ├── README.md
 ├── RELATORIO.md
+├── ENTREGA_GRUPO.md
 ├── index.html
 ├── script.js
 ├── style.css
@@ -35,14 +36,5 @@ Abra `index.html` no navegador. A página usa caminhos relativos, portanto prese
 
 O dicionário descreve 19 tabelas e 115 atributos do DDL. O DER PNG foi exportado do Workbench e o `.mwb` pode ser reaberto para edição. O PDF da AT2 atual está incluído para revisão, mas ainda contém divergências descritas em `docs/CONFERENCIA_AT2.md`. As regras que não estão no DDL não são implementadas pelo site. O PDF recebido contém nomes e RGMs de integrantes; revise a exposição desses identificadores antes de publicar a versão pública.
 
-## Atualização do GitHub Pages
-
-O repositório público existente é `[/EduardaAmorimA/Dicionario_dados_Dolly]`, na branch `main`. Depois da aprovação do grupo:
-
-1. Atualize os arquivos do site e mantenha `index.html` na raiz, junto de `style.css` e `script.js`.
-2. Preserve as pastas `docs/` e `assets/` e seus nomes, incluindo maiúsculas e minúsculas. O servidor do GitHub diferencia, por exemplo, `DER.png` de `der.png`.
-3. Faça o commit na branch `main`. A configuração esperada está em Settings > Pages > Build and deployment > Source: Deploy from a branch > Branch: main > Folder: /(root) > Save.
-4. Aguarde o GitHub Pages concluir a publicação e confira os links de documentos, o DER e as funções da página.
-
-Antes de declarar a AT6 concluída, usamos o documento editável oficial para corrigir a AT2, exportar o PDF preservando o modelo do professor e comparando requisitos: DDL, DER e dicionário. Veja também `ENTREGA_GRUPO.md`.
+Antes de declarar a AT6 concluída, usamos o documento editável oficial para corrigir a AT2, exportar o PDF preservando o modelo do professor e comparando requisitos: DDL, DER e dicionário. Veja também `ENTREGA_GRUPO.md` para mais informações.
 
